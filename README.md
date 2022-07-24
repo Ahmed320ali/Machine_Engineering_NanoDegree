@@ -63,4 +63,4 @@ The implemented model is the Star Schema model. It has been selected due to it s
  - songs
  - artists
  - time
-![SCHEMA](SCHEMA.png)
+![SCHEMA](SCHEMA.jpg)
