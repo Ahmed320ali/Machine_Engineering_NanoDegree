@@ -1,4 +1,4 @@
-    # Project: Data Modeling with Postgres
+# Project: Data Modeling with Postgres
 
 ## Introduction
 - ### Problem
@@ -63,4 +63,6 @@ The implemented model is the Star Schema model. It has been selected due to it s
  - songs
  - artists
  - time
+ 
+ 
 ![SCHEMA](SCHEMA.jpg)
